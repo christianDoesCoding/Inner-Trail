@@ -1,1 +1,31 @@
-This is where I'll be planning out my infrastructure
+Frontend:
+- React
+- Bootstrap
+- Authentication Page -| Interface
+
+
+
+
+
+Backend:
+- Java
+- Spring Boot
+
+
+
+MVPs:
+- Create, Update, and Delete roots and leaves
+- Retrieve previous inputs associated with user
+- Identify specific components by box shapes/ capabilities
+
+
+Stretch:
+- incorporate GPT API to guide thought process
+- Develop feature that generates through-provoking questions for user
+- allow ability to add pictures to further drive thought process, and also give scrap-booking vibe
+- Allow zoom in/out capabilities (similar to excalidraw structure)
+
+
+Questions to explore:
+- SQL, NoSQL, or both?
+- color scheme?
