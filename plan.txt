@@ -30,4 +30,3 @@ Tech stack:
 color scheme:
 - green
 - nature/ mountain theme
-
