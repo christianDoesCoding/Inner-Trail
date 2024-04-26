@@ -4,13 +4,9 @@ Frontend:
 - Authentication Page -| Interface
 
 
-
-
-
 Backend:
 - Java
 - Spring Boot
-
 
 
 MVPs:
@@ -26,7 +22,12 @@ Stretch:
 - Allow zoom in/out capabilities (similar to excalidraw structure)
 
 
-Questions to explore:
-- SQL, NoSQL, or both?
-- color scheme?
+Tech stack:
+-SQL = MySQL
+- Gradle = dependency
+
+
+color scheme:
+- green
+- nature/ mountain theme
 
